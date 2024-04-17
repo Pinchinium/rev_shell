@@ -1,4 +1,5 @@
-<h2>Linux Simple</h2>
+<h2>Linux</h2>
+<h3>Linux Simple</h3>
 
 Simple shell, usage:
 
